@@ -3,7 +3,7 @@
 # Overview
 Papers With CodeのSoTA推移のグラフをエクセル形式に変換できます，
 
-#Uses
+# Uses
 '''
 Python paper_with_code2excel.py
 paper with code sota URL >> [URL] (--all_label)
